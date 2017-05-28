@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 I am using Git. :) 
 
 Git has many functions.
+
+Hello Hello Hello
+=======
+I am using Git. :) 
+>>>>>>> ea8ebdf2d18b4816901629c1e79082de527f5555
